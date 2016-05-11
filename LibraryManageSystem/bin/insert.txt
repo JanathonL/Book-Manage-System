@@ -1,0 +1,2 @@
+insert into book values('101','CS','think in Ruby','’„¥Û',2013,'ljt',123,12,1)
+insert into book values('102','CS','think in swift','’„¥Û',2013,'ljt',123,12,1)
